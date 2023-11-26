@@ -1,2 +1,2 @@
-# Portifolio
-Creating an online portifolio.
+# Portfolio
+Creating an online portfolio.
